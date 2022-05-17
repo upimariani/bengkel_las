@@ -33,6 +33,7 @@
                                     <ul class="nav child_menu">
                                         <li><a href="<?= base_url('admin/c_barang/kategori') ?>">Kategori Barang</a></li>
                                         <li><a href="<?= base_url('admin/c_barang') ?>">Barang</a></li>
+                                        <li><a href="<?= base_url('admin/c_pagar') ?>">Pagar</a></li>
                                         <li><a href="<?= base_url('admin/c_admin') ?>">Admin</a></li>
                                         <li><a href="<?= base_url('admin/c_barang/diskon') ?>">Diskon</a></li>
                                         <li><a href="<?= base_url('admin/c_ongkir') ?>">Ongkos Kirim</a></li>
